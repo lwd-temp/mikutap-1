@@ -20,3 +20,6 @@ daniwell@aidn.jp
 http://exittunes.com/license/
 ```
 由于违规使用本repo带来的后果HFIProgramming和lwd-temp不承担结果  
+
+# Warma部分版权声明
+本项目尚未获得Warma音源的许可。如有版权相关事宜，请直接发issue或联系仓库作者，我会直接删除此仓库。
